@@ -1,0 +1,14 @@
+C:\Users\48975462811\Desktop\Projeto_Extra\Pizzarias.Extra.WebApi\Pizzarias.Extra.WebApi\bin\Debug\netcoreapp2.1\Pizzarias.Extra.WebApi.deps.json
+C:\Users\48975462811\Desktop\Projeto_Extra\Pizzarias.Extra.WebApi\Pizzarias.Extra.WebApi\bin\Debug\netcoreapp2.1\Pizzarias.Extra.WebApi.runtimeconfig.json
+C:\Users\48975462811\Desktop\Projeto_Extra\Pizzarias.Extra.WebApi\Pizzarias.Extra.WebApi\bin\Debug\netcoreapp2.1\Pizzarias.Extra.WebApi.runtimeconfig.dev.json
+C:\Users\48975462811\Desktop\Projeto_Extra\Pizzarias.Extra.WebApi\Pizzarias.Extra.WebApi\bin\Debug\netcoreapp2.1\Pizzarias.Extra.WebApi.dll
+C:\Users\48975462811\Desktop\Projeto_Extra\Pizzarias.Extra.WebApi\Pizzarias.Extra.WebApi\obj\Debug\netcoreapp2.1\Pizzarias.Extra.WebApi.csprojAssemblyReference.cache
+C:\Users\48975462811\Desktop\Projeto_Extra\Pizzarias.Extra.WebApi\Pizzarias.Extra.WebApi\obj\Debug\netcoreapp2.1\Pizzarias.Extra.WebApi.csproj.CoreCompileInputs.cache
+C:\Users\48975462811\Desktop\Projeto_Extra\Pizzarias.Extra.WebApi\Pizzarias.Extra.WebApi\obj\Debug\netcoreapp2.1\Pizzarias.Extra.WebApi.RazorAssemblyInfo.cache
+C:\Users\48975462811\Desktop\Projeto_Extra\Pizzarias.Extra.WebApi\Pizzarias.Extra.WebApi\obj\Debug\netcoreapp2.1\Pizzarias.Extra.WebApi.RazorAssemblyInfo.cs
+C:\Users\48975462811\Desktop\Projeto_Extra\Pizzarias.Extra.WebApi\Pizzarias.Extra.WebApi\obj\Debug\netcoreapp2.1\Pizzarias.Extra.WebApi.AssemblyInfoInputs.cache
+C:\Users\48975462811\Desktop\Projeto_Extra\Pizzarias.Extra.WebApi\Pizzarias.Extra.WebApi\obj\Debug\netcoreapp2.1\Pizzarias.Extra.WebApi.AssemblyInfo.cs
+C:\Users\48975462811\Desktop\Projeto_Extra\Pizzarias.Extra.WebApi\Pizzarias.Extra.WebApi\obj\Debug\netcoreapp2.1\Pizzarias.Extra.WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\48975462811\Desktop\Projeto_Extra\Pizzarias.Extra.WebApi\Pizzarias.Extra.WebApi\bin\Debug\netcoreapp2.1\Pizzarias.Extra.WebApi.pdb
+C:\Users\48975462811\Desktop\Projeto_Extra\Pizzarias.Extra.WebApi\Pizzarias.Extra.WebApi\obj\Debug\netcoreapp2.1\Pizzarias.Extra.WebApi.dll
+C:\Users\48975462811\Desktop\Projeto_Extra\Pizzarias.Extra.WebApi\Pizzarias.Extra.WebApi\obj\Debug\netcoreapp2.1\Pizzarias.Extra.WebApi.pdb
